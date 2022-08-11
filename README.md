@@ -6,3 +6,8 @@ This app will be healpful to maintain your physical health
 which calculates BMI , Joging calories burn meter , hydration notification and some daily intake fitness routine
 
 https://github.com/Rohanmallesh/HEALTHAPP
+
+# CLIMETOR
+A beautiful weather app which will reports current weather in your area
+
+https://github.com/Rohanmallesh/flutter-projects
